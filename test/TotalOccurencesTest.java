@@ -9,7 +9,7 @@ public class TotalOccurencesTest {
     TotalOccurences obj;
     @Before
     public void setUp() throws Exception {
-        TotalOccurences obj = new TotalOccurences();
+         obj = new TotalOccurences();
     }
 
     @After
