@@ -1,3 +1,4 @@
+package com.stackroute;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -9,7 +10,7 @@ public class TotalOccurencesTest {
     TotalOccurences obj;
     @Before
     public void setUp() throws Exception {
-        TotalOccurences obj = new TotalOccurences();
+         obj = new TotalOccurences();
     }
 
     @After
